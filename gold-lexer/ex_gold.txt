@@ -1,0 +1,41 @@
+using
+
+var numero : int
+
+if q = 2 and x = 1 then
+    return 2
+elseif q + x = 3 then
+    return 1
+else
+    return 0
+end
+
+while true do
+    print ""
+    s := "string"
+    if s = "string" then
+        break
+    end
+end
+
+repeat
+    print ""
+    s := "string"
+    if s = "string" then
+        break
+    end
+until true
+
+procedure main(args: String[]) begin
+    A := 0
+end
+
+function d(S, x) begin
+    if q = 2 and x = 1 then
+        return 2
+    elseif q + x = 3 then
+        return 1
+    else
+        return 0
+    end
+end
